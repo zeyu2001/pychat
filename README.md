@@ -1,8 +1,8 @@
 # pychat
  A Python chatroom application with Tkinter GUI
 
-## Create Your Own Chatbot
-Check out my tutorial [here](https://dev.to/zeyu2001/build-a-chatroom-app-with-python-44fa)
+## Create Your Own Chatroom Application
+Check out my tutorial [here](https://dev.to/zeyu2001/build-a-chatroom-app-with-python-44fa).
 
 ## How to Run? 
 Run the `server.py` script from the command line. 
@@ -52,6 +52,7 @@ Your name:
 ```
 
 Run multiple clients to chat in real-time! 
+
 Note: If connecting from a different subnet, your firewall may block the connection.
 
 ## Preview
